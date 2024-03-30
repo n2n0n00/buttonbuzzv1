@@ -22,34 +22,18 @@ yarn add buttonbuzz
 
 To use the button components provided by this library:
 
-1. Import the package path into the Tailwind CSS config file in a manner like:
+1. Import the component into your into your React components ('label' is required for all components):
 
 ```bash
- content: [
-    "./index.html",
-    "./src/**/*.{js,ts,jsx,tsx}",
-    "./node_modules/buttonbuzz/dist/bundle.js",
-  ],
-```
-
-2. Import the component into your into your React components:
-
-```bash
-import React from 'react';
-import { ButtonBoring } from "buttonbuzz";
+import "buttonbuzz/dist/index.css";
+import { ButtonBanner } from "buttonbuzz";
 
 const MyComponent = () => {
   return (
     <div>
-      <ButtonBoring
-          = "22px"
-          = "Subscribe"
-          = "#ffa1a1"
-          = "bold"
-         = "#ff3"
-         = "Extra TailwindCSS Classes or other go here"
-         = "#14007e"
-          = {() => console.log('Primary button clicked')} />
+      <ButtonBanner
+          label= "Subscribe"
+        />
     </div>
   );
 };

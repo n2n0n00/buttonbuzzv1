@@ -46,10 +46,7 @@ export const ButtonStar = ({
       onMouseLeave={handleMouseLeave}
       {...props}
     >
-      <div className="absolute">
-        <Star shapeColor={shapeColor} width={iconWidth} />
-      </div>
-
+      <Star shapeColor={shapeColor} width={iconWidth} />
       <p
         className="text-white absolute"
         style={{
