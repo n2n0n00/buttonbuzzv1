@@ -84,4 +84,4 @@ This library is licensed under the MIT License.
 
 ButtonBuzz is developed and maintained by [n2n0n00](https://github.com/n2n0n00)
 
-[GitHub repository](https://github.com/n2n0n00/buttonbuzz-library)
+[GitHub repository](https://github.com/n2n0n00/buttonbuzzv1)
