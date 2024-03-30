@@ -6,7 +6,7 @@ Welcome to ButtonBuzz Library! This library provides a collection of simple and 
 
 ## Installation
 
-You can install the ReactJS Simple Button Library via npm:
+You can install buttonbuzz via npm:
 
 ```bash
 npm install buttonbuzz
@@ -22,7 +22,7 @@ yarn add buttonbuzz
 
 To use the button components provided by this library:
 
-1. Import the component into your into your React components ('label' is required for all components):
+1. Import the component into your code ('label' is required for all components):
 
 ```bash
 import "buttonbuzz/dist/index.css";
@@ -78,7 +78,7 @@ Contributions to ButtonBuzz are welcome! If you find any issues or have suggesti
 
 ## License
 
-This library is licensed under the MIT License.
+This library is licensed under the ISC License.
 
 ## Credits
 
