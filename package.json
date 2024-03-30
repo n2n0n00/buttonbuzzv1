@@ -28,5 +28,24 @@
     "tailwindcss": "^3.4.3",
     "tsup": "^8.0.2",
     "vite": "^5.2.0"
-  }
+  },
+  "description": "This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n2n0n00/buttonbuzzv1.git"
+  },
+  "keywords": [
+    "button",
+    "library",
+    "button library for react",
+    "button UI",
+    "react button component",
+    "button library"
+  ],
+  "author": "n2n0n00",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/n2n0n00/buttonbuzzv1/issues"
+  },
+  "homepage": "https://github.com/n2n0n00/buttonbuzzv1#readme"
 }
