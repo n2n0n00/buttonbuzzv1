@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.btnSlick_bg {
+  background: rgb(255, 226, 89);
+  background: -moz-linear-gradient(
+    90deg,
+    rgba(255, 226, 89, 1) 20%,
+    rgba(255, 167, 81, 1) 80%
+  );
+  background: -webkit-linear-gradient(
+    90deg,
+    rgba(255, 226, 89, 1) 20%,
+    rgba(255, 167, 81, 1) 80%
+  );
+  background: linear-gradient(
+    90deg,
+    rgba(255, 226, 89, 1) 20%,
+    rgba(255, 167, 81, 1) 80%
+  );
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ffe259",endColorstr="#ffa751",GradientType=1);
+}

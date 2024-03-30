@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.box {
+  width: 100px;
+  height: 50px;
+  transform: skew(20deg);
+  background: #555;
+}
