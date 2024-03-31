@@ -12,12 +12,6 @@ You can install buttonbuzz via npm:
 npm install buttonbuzz
 ```
 
-or via yarn:
-
-```bash
-yarn add buttonbuzz
-```
-
 ## Usage
 
 To use the button components provided by this library:
